@@ -7,3 +7,6 @@ Takes input from the clipboard
 Just Ctrl+a and Ctrl+c any text that you want to check for a
 - phone number(US and Euro/international)
 - Email adress
+
+and run the program.
+Output will be in the command line
