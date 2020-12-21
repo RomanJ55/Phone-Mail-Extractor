@@ -1,7 +1,7 @@
 # Phone-Mail-Extractor
 Phone&amp;Mail Extractor written in python
 (command line only)
-https://romanj55.github.io/ConnectFour-Game/
+https://romanj55.github.io/Phone-Mail-Extractor/
 
 Takes input from the clipboard
 
